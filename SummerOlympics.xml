@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="classification.xsl" type="text/xsl"?>
+<medals>
+    <olympics location="Athens, Greece" year="1896">
+        <country bronze="2" gold="11" silver="7">United States</country>
+        <country bronze="19" gold="10" silver="18">Greece</country>
+        <country bronze="2" gold="6" silver="5">Germany</country>
+        <country bronze="2" gold="5" silver="4">France</country>
+        <country bronze="2" gold="2" silver="3">Great Britain</country>
+        <country bronze="3" gold="2" silver="1">Hungary</country>
+        <country bronze="2" gold="2" silver="1">Austria</country>
+        <country bronze="0" gold="2" silver="0">Australia</country>
+        <country bronze="3" gold="1" silver="2">Denmark</country>
+        <country bronze="0" gold="1" silver="2">Switzerland</country>
+        <country bronze="1" gold="1" silver="0">Mixed team</country>
+    </olympics>
+    <olympics location="Paris, France" year="1900">
+        <country bronze="37" gold="27" silver="38">France</country>
+        <country bronze="15" gold="19" silver="14">United States</country>
+        <country bronze="9" gold="15" silver="8">Great Britain</country>
+        <country bronze="6" gold="8" silver="5">Mixed team</country>
+        <country bronze="4" gold="6" silver="7">Belgium</country>
+        <country bronze="1" gold="6" silver="2">Switzerland</country>
+        <country bronze="2" gold="4" silver="3">Germany</country>
+        <country bronze="0" gold="3" silver="2">Italy</country>
+        <country bronze="3" gold="2" silver="0">Australia</country>
+        <country bronze="2" gold="1" silver="3">Denmark</country>
+        <country bronze="2" gold="1" silver="2">Hungary</country>
+        <country bronze="0" gold="1" silver="1">Cuba</country>
+        <country bronze="1" gold="1" silver="0">Canada</country>
+        <country bronze="0" gold="1" silver="0">Spain</country>
+        <country bronze="0" gold="1" silver="0">Luxembourg</country>
+        <country bronze="3" gold="0" silver="3">Austria</country>
+        <country bronze="3" gold="0" silver="2">Norway</country>
+        <country bronze="3" gold="0" silver="2">Netherlands</country>
+        <country bronze="0" gold="0" silver="2">India</country>
+        <country bronze="1" gold="0" silver="1">Bohemia</country>
+        <country bronze="1" gold="0" silver="0">Sweden</country>
+    </olympics>
+    <olympics location="St. Louis, United States" year="1904">
+        <country bronze="77" gold="76" silver="78">United States</country>
+        <country bronze="6" gold="4" silver="5">Germany</country>
+        <country bronze="1" gold="4" silver="1">Canada</country>
+        <country bronze="0" gold="3" silver="0">Cuba</country>
+        <country bronze="1" gold="2" silver="1">Hungary</country>
+        <country bronze="1" gold="2" silver="1">Mixed team</country>
+        <country bronze="0" gold="2" silver="0">Norway</country>
+        <country bronze="1" gold="1" silver="1">Austria</country>
+        <country bronze="0" gold="1" silver="1">Great Britain</country>
+        <country bronze="2" gold="1" silver="0">Switzerland</country>
+        <country bronze="1" gold="1" silver="0">Greece</country>
+        <country bronze="1" gold="0" silver="3">Australia</country>
+        <country bronze="0" gold="0" silver="1">France</country>
+    </olympics>
+    <olympics location="London, Great Britain" year="1908">
+        <country bronze="39" gold="56" silver="51">Great Britain</country>
+        <country bronze="12" gold="23" silver="12">United States</country>
+        <country bronze="11" gold="8" silver="6">Sweden</country>
+        <country bronze="9" gold="5" silver="5">France</country>
+        <country bronze="5" gold="3" silver="5">Germany</country>
+        <country bronze="2" gold="3" silver="4">Hungary</country>
+        <country bronze="10" gold="3" silver="3">Canada</country>
+        <country bronze="3" gold="2" silver="3">Norway</country>
+        <country bronze="0" gold="2" silver="2">Italy</country>
+        <country bronze="2" gold="1" silver="5">Belgium</country>
+        <country bronze="2" gold="1" silver="2">Australasia</country>
+        <country bronze="0" gold="1" silver="2">Russian Empire</country>
+        <country bronze="3" gold="1" silver="1">Finland</country>
+        <country bronze="0" gold="1" silver="1">South Africa</country>
+        <country bronze="1" gold="0" silver="3">Greece</country>
+        <country bronze="3" gold="0" silver="2">Denmark</country>
+        <country bronze="2" gold="0" silver="0">Bohemia</country>
+        <country bronze="2" gold="0" silver="0">Netherlands</country>
+        <country bronze="1" gold="0" silver="0">Austria</country>
+    </olympics>
+    <olympics location="Stockholm, Sweden" year="1912">
+        <country bronze="19" gold="26" silver="19">United States</country>
+        <country bronze="17" gold="24" silver="24">Sweden</country>
+        <country bronze="16" gold="10" silver="15">Great Britain</country>
+        <country bronze="9" gold="9" silver="8">Finland</country>
+        <country bronze="3" gold="7" silver="5">France</country>
+        <country bronze="7" gold="6" silver="13">Germany</country>
+        <country bronze="2" gold="5" silver="1">Italy</country>
+        <country bronze="0" gold="4" silver="2">South Africa</country>
+        <country bronze="5" gold="4" silver="1">Norway</country>
+        <country bronze="3" gold="3" silver="2">Canada</country>
+        <country bronze="3" gold="3" silver="2">Hungary</country>
+        <country bronze="3" gold="2" silver="2">Australasia</country>
+        <country bronze="3" gold="2" silver="1">Belgium</country>
+        <country bronze="5" gold="1" silver="6">Denmark</country>
+        <country bronze="1" gold="1" silver="0">Greece</country>
+        <country bronze="0" gold="1" silver="0">Switzerland</country>
+        <country bronze="3" gold="0" silver="2">Russian Empire</country>
+        <country bronze="2" gold="0" silver="2">Austria</country>
+        <country bronze="3" gold="0" silver="0">Netherlands</country>
+    </olympics>
+    <olympics location="Antwerp, Belgium" year="1920">
+        <country bronze="27" gold="41" silver="27">United States</country>
+        <country bronze="25" gold="19" silver="20">Sweden</country>
+        <country bronze="14" gold="16" silver="12">Belgium</country>
+        <country bronze="9" gold="15" silver="10">Finland</country>
+        <country bronze="13" gold="14" silver="16">Great Britain</country>
+        <country bronze="9" gold="13" silver="9">Norway</country>
+        <country bronze="5" gold="13" silver="5">Italy</country>
+        <country bronze="13" gold="9" silver="19">France</country>
+        <country bronze="5" gold="4" silver="2">Netherlands</country>
+        <country bronze="1" gold="3" silver="9">Denmark</country>
+        <country bronze="3" gold="3" silver="4">South Africa</country>
+        <country bronze="3" gold="3" silver="3">Canada</country>
+        <country bronze="7" gold="2" silver="2">Switzerland</country>
+        <country bronze="0" gold="1" silver="2">Estonia</country>
+        <country bronze="1" gold="1" silver="1">Brazil</country>
+        <country bronze="1" gold="0" silver="2">Australia</country>
+        <country bronze="0" gold="0" silver="2">Japan</country>
+        <country bronze="0" gold="0" silver="2">Spain</country>
+        <country bronze="0" gold="0" silver="1">Greece</country>
+        <country bronze="0" gold="0" silver="1">Luxembourg</country>
+        <country bronze="2" gold="0" silver="0">Czechoslovakia</country>
+        <country bronze="1" gold="0" silver="0">New Zealand</country>
+    </olympics>
+    <olympics location="Paris, France" year="1924">
+        <country bronze="27" gold="45" silver="27">United States</country>
+        <country bronze="10" gold="14" silver="13">Finland</country>
+        <country bronze="10" gold="13" silver="15">France</country>
+        <country bronze="12" gold="9" silver="13">Great Britain</country>
+        <country bronze="5" gold="8" silver="3">Italy</country>
+        <country bronze="10" gold="7" silver="8">Switzerland</country>
+        <country bronze="3" gold="5" silver="2">Norway</country>
+        <country bronze="12" gold="4" silver="13">Sweden</country>
+        <country bronze="5" gold="4" silver="1">Netherlands</country>
+        <country bronze="3" gold="3" silver="7">Belgium</country>
+        <country bronze="2" gold="3" silver="1">Australia</country>
+        <country bronze="2" gold="2" silver="5">Denmark</country>
+        <country bronze="4" gold="2" silver="3">Hungary</country>
+        <country bronze="0" gold="2" silver="0">Yugoslavia</country>
+        <country bronze="5" gold="1" silver="4">Czechoslovakia</country>
+        <country bronze="2" gold="1" silver="3">Argentina</country>
+        <country bronze="4" gold="1" silver="1">Estonia</country>
+        <country bronze="1" gold="1" silver="1">South Africa</country>
+        <country bronze="0" gold="1" silver="0">Uruguay</country>
+        <country bronze="1" gold="0" silver="3">Austria</country>
+        <country bronze="1" gold="0" silver="3">Canada</country>
+        <country bronze="1" gold="0" silver="1">Poland</country>
+        <country bronze="1" gold="0" silver="0">Haiti</country>
+        <country bronze="1" gold="0" silver="0">Japan</country>
+        <country bronze="1" gold="0" silver="0">New Zealand</country>
+        <country bronze="1" gold="0" silver="0">Portugal</country>
+        <country bronze="1" gold="0" silver="0">Romania</country>
+    </olympics>
+    <olympics location="Amsterdam, Netherlands" year="1928">
+        <country bronze="16" gold="22" silver="18">United States</country>
+        <country bronze="14" gold="10" silver="7">Germany</country>
+        <country bronze="9" gold="8" silver="8">Finland</country>
+        <country bronze="12" gold="7" silver="6">Sweden</country>
+        <country bronze="7" gold="7" silver="5">Italy</country>
+        <country bronze="4" gold="7" silver="4">Switzerland</country>
+        <country bronze="5" gold="6" silver="10">France</country>
+        <country bronze="4" gold="6" silver="9">Netherlands</country>
+        <country bronze="0" gold="4" silver="5">Hungary</country>
+        <country bronze="7" gold="4" silver="4">Canada</country>
+        <country bronze="7" gold="3" silver="10">Great Britain</country>
+        <country bronze="1" gold="3" silver="3">Argentina</country>
+        <country bronze="2" gold="3" silver="1">Denmark</country>
+        <country bronze="2" gold="2" silver="5">Czechoslovakia</country>
+        <country bronze="1" gold="2" silver="2">Japan</country>
+        <country bronze="2" gold="2" silver="1">Estonia</country>
+        <country bronze="1" gold="2" silver="1">Egypt</country>
+        <country bronze="1" gold="2" silver="0">Austria</country>
+        <country bronze="1" gold="1" silver="2">Australia</country>
+        <country bronze="1" gold="1" silver="2">Norway</country>
+        <country bronze="3" gold="1" silver="1">Poland</country>
+        <country bronze="3" gold="1" silver="1">Yugoslavia</country>
+        <country bronze="2" gold="1" silver="0">South Africa</country>
+        <country bronze="0" gold="1" silver="0">India</country>
+        <country bronze="0" gold="1" silver="0">Ireland</country>
+        <country bronze="0" gold="1" silver="0">New Zealand</country>
+        <country bronze="0" gold="1" silver="0">Spain</country>
+        <country bronze="0" gold="1" silver="0">Uruguay</country>
+        <country bronze="2" gold="0" silver="1">Belgium</country>
+        <country bronze="0" gold="0" silver="1">Chile</country>
+        <country bronze="0" gold="0" silver="1">Haiti</country>
+        <country bronze="1" gold="0" silver="0">Philippines</country>
+        <country bronze="1" gold="0" silver="0">Portugal</country>
+    </olympics>
+    <olympics location="Los Angeles, United States" year="1932">
+        <country bronze="30" gold="41" silver="32">United States</country>
+        <country bronze="12" gold="12" silver="12">Italy</country>
+        <country bronze="4" gold="10" silver="5">France</country>
+        <country bronze="9" gold="9" silver="5">Sweden</country>
+        <country bronze="4" gold="7" silver="7">Japan</country>
+        <country bronze="5" gold="6" silver="4">Hungary</country>
+        <country bronze="12" gold="5" silver="8">Finland</country>
+        <country bronze="5" gold="4" silver="7">Great Britain</country>
+        <country bronze="5" gold="3" silver="12">Germany</country>
+        <country bronze="1" gold="3" silver="1">Australia</country>
+        <country bronze="0" gold="3" silver="1">Argentina</country>
+        <country bronze="8" gold="2" silver="5">Canada</country>
+        <country bronze="0" gold="2" silver="5">Netherlands</country>
+        <country bronze="4" gold="2" silver="1">Poland</country>
+        <country bronze="3" gold="2" silver="0">South Africa</country>
+        <country bronze="0" gold="2" silver="0">Ireland</country>
+        <country bronze="1" gold="1" silver="2">Czechoslovakia</country>
+        <country bronze="3" gold="1" silver="1">Austria</country>
+        <country bronze="0" gold="1" silver="0">India</country>
+        <country bronze="3" gold="0" silver="3">Denmark</country>
+        <country bronze="0" gold="0" silver="2">Mexico</country>
+        <country bronze="0" gold="0" silver="1">Latvia</country>
+        <country bronze="0" gold="0" silver="1">New Zealand</country>
+        <country bronze="0" gold="0" silver="1">Switzerland</country>
+        <country bronze="3" gold="0" silver="0">Philippines</country>
+        <country bronze="1" gold="0" silver="0">Spain</country>
+        <country bronze="1" gold="0" silver="0">Uruguay</country>
+    </olympics>
+    <olympics location="Berlin, Germany" year="1936">
+        <country bronze="30" gold="33" silver="26">Germany</country>
+        <country bronze="12" gold="24" silver="20">United States</country>
+        <country bronze="5" gold="10" silver="1">Hungary</country>
+        <country bronze="5" gold="8" silver="9">Italy</country>
+        <country bronze="6" gold="7" silver="6">Finland</country>
+        <country bronze="6" gold="7" silver="6">France</country>
+        <country bronze="9" gold="6" silver="5">Sweden</country>
+        <country bronze="8" gold="6" silver="4">Japan</country>
+        <country bronze="7" gold="6" silver="4">Netherlands</country>
+        <country bronze="3" gold="4" silver="7">Great Britain</country>
+        <country bronze="3" gold="4" silver="6">Austria</country>
+        <country bronze="0" gold="3" silver="5">Czechoslovakia</country>
+        <country bronze="3" gold="2" silver="2">Argentina</country>
+        <country bronze="3" gold="2" silver="2">Estonia</country>
+        <country bronze="2" gold="2" silver="1">Egypt</country>
+        <country bronze="5" gold="1" silver="9">Switzerland</country>
+        <country bronze="5" gold="1" silver="3">Canada</country>
+        <country bronze="2" gold="1" silver="3">Norway</country>
+        <country bronze="1" gold="1" silver="0">Turkey</country>
+        <country bronze="0" gold="1" silver="0">India</country>
+        <country bronze="0" gold="1" silver="0">New Zealand</country>
+        <country bronze="3" gold="0" silver="3">Poland</country>
+        <country bronze="3" gold="0" silver="2">Denmark</country>
+        <country bronze="1" gold="0" silver="1">Latvia</country>
+        <country bronze="0" gold="0" silver="1">Romania</country>
+        <country bronze="0" gold="0" silver="1">South Africa</country>
+        <country bronze="0" gold="0" silver="1">Yugoslavia</country>
+        <country bronze="3" gold="0" silver="0">Mexico</country>
+        <country bronze="2" gold="0" silver="0">Belgium</country>
+        <country bronze="1" gold="0" silver="0">Australia</country>
+        <country bronze="1" gold="0" silver="0">Philippines</country>
+        <country bronze="1" gold="0" silver="0">Portugal</country>
+    </olympics>
+    <olympics location="London, Great Britain" year="1948">
+        <country bronze="19" gold="38" silver="27">United States</country>
+        <country bronze="17" gold="16" silver="11">Sweden</country>
+        <country bronze="13" gold="10" silver="6">France</country>
+        <country bronze="12" gold="10" silver="5">Hungary</country>
+        <country bronze="8" gold="8" silver="11">Italy</country>
+        <country bronze="5" gold="8" silver="7">Finland</country>
+        <country bronze="2" gold="6" silver="4">Turkey</country>
+        <country bronze="3" gold="6" silver="2">Czechoslovakia</country>
+        <country bronze="5" gold="5" silver="10">Switzerland</country>
+        <country bronze="8" gold="5" silver="7">Denmark</country>
+        <country bronze="9" gold="5" silver="2">Netherlands</country>
+        <country bronze="6" gold="3" silver="14">Great Britain</country>
+        <country bronze="1" gold="3" silver="3">Argentina</country>
+        <country bronze="5" gold="2" silver="6">Australia</country>
+        <country bronze="3" gold="2" silver="2">Belgium</country>
+        <country bronze="1" gold="2" silver="2">Egypt</country>
+        <country bronze="2" gold="2" silver="1">Mexico</country>
+        <country bronze="1" gold="2" silver="1">South Africa</country>
+        <country bronze="3" gold="1" silver="3">Norway</country>
+        <country bronze="0" gold="1" silver="2">Jamaica</country>
+        <country bronze="3" gold="1" silver="0">Austria</country>
+        <country bronze="0" gold="1" silver="0">India</country>
+        <country bronze="0" gold="1" silver="0">Peru</country>
+        <country bronze="0" gold="0" silver="2">Yugoslavia</country>
+        <country bronze="2" gold="0" silver="1">Canada</country>
+        <country bronze="1" gold="0" silver="1">Portugal</country>
+        <country bronze="1" gold="0" silver="1">Uruguay</country>
+        <country bronze="0" gold="0" silver="1">Ceylon</country>
+        <country bronze="0" gold="0" silver="1">Cuba</country>
+        <country bronze="0" gold="0" silver="1">Spain</country>
+        <country bronze="0" gold="0" silver="1">Trinidad and Tobago</country>
+        <country bronze="2" gold="0" silver="0">Panama</country>
+        <country bronze="2" gold="0" silver="0">South Korea</country>
+        <country bronze="1" gold="0" silver="0">Brazil</country>
+        <country bronze="1" gold="0" silver="0">Iran</country>
+        <country bronze="1" gold="0" silver="0">Poland</country>
+        <country bronze="1" gold="0" silver="0">Puerto Rico</country>
+    </olympics>
+    <olympics location="Helsinki, Finland" year="1952">
+        <country bronze="17" gold="40" silver="19">United States</country>
+        <country bronze="19" gold="22" silver="30">Soviet Union</country>
+        <country bronze="16" gold="16" silver="10">Hungary</country>
+        <country bronze="10" gold="12" silver="13">Sweden</country>
+        <country bronze="4" gold="8" silver="9">Italy</country>
+        <country bronze="3" gold="7" silver="3">Czechoslovakia</country>
+        <country bronze="6" gold="6" silver="6">France</country>
+        <country bronze="13" gold="6" silver="3">Finland</country>
+        <country bronze="3" gold="6" silver="2">Australia</country>
+        <country bronze="0" gold="3" silver="2">Norway</country>
+        <country bronze="6" gold="2" silver="6">Switzerland</country>
+        <country bronze="4" gold="2" silver="4">South Africa</country>
+        <country bronze="0" gold="2" silver="3">Jamaica</country>
+        <country bronze="0" gold="2" silver="2">Belgium</country>
+        <country bronze="3" gold="2" silver="1">Denmark</country>
+        <country bronze="1" gold="2" silver="0">Turkey</country>
+        <country bronze="2" gold="1" silver="6">Japan</country>
+        <country bronze="8" gold="1" silver="2">Great Britain</country>
+        <country bronze="2" gold="1" silver="2">Argentina</country>
+        <country bronze="1" gold="1" silver="2">Poland</country>
+        <country bronze="0" gold="1" silver="2">Canada</country>
+        <country bronze="0" gold="1" silver="2">Yugoslavia</country>
+        <country bronze="2" gold="1" silver="1">Romania</country>
+        <country bronze="2" gold="1" silver="0">Brazil</country>
+        <country bronze="2" gold="1" silver="0">New Zealand</country>
+        <country bronze="1" gold="1" silver="0">India</country>
+        <country bronze="0" gold="1" silver="0">Luxembourg</country>
+        <country bronze="17" gold="0" silver="7">Germany</country>
+        <country bronze="0" gold="0" silver="5">Netherlands</country>
+        <country bronze="4" gold="0" silver="3">Iran</country>
+        <country bronze="0" gold="0" silver="2">Chile</country>
+        <country bronze="1" gold="0" silver="1">Austria</country>
+        <country bronze="1" gold="0" silver="1">Lebanon</country>
+        <country bronze="0" gold="0" silver="1">Ireland</country>
+        <country bronze="0" gold="0" silver="1">Mexico</country>
+        <country bronze="0" gold="0" silver="1">Spain</country>
+        <country bronze="2" gold="0" silver="0">South Korea</country>
+        <country bronze="2" gold="0" silver="0">Trinidad and Tobago</country>
+        <country bronze="2" gold="0" silver="0">Uruguay</country>
+        <country bronze="1" gold="0" silver="0">Bulgaria</country>
+        <country bronze="1" gold="0" silver="0">Egypt</country>
+        <country bronze="1" gold="0" silver="0">Portugal</country>
+        <country bronze="1" gold="0" silver="0">Venezuela</country>
+    </olympics>
+    <olympics location="&#xA;Melbourne, Australia /&#xA;Stockholm, Sweden&#xA;   " year="1956">
+        <country bronze="32" gold="37" silver="29">Soviet Union</country>
+        <country bronze="17" gold="32" silver="25">United States</country>
+        <country bronze="14" gold="13" silver="8">Australia</country>
+        <country bronze="7" gold="9" silver="10">Hungary</country>
+        <country bronze="9" gold="8" silver="8">Italy</country>
+        <country bronze="6" gold="8" silver="5">Sweden</country>
+        <country bronze="7" gold="6" silver="13">United Team of Germany</country>
+        <country bronze="11" gold="6" silver="7">Great Britain</country>
+        <country bronze="5" gold="5" silver="3">Romania</country>
+        <country bronze="5" gold="4" silver="10">Japan</country>
+        <country bronze="6" gold="4" silver="4">France</country>
+        <country bronze="2" gold="3" silver="2">Turkey</country>
+        <country bronze="11" gold="3" silver="1">Finland</country>
+        <country bronze="1" gold="2" silver="2">Iran</country>
+        <country bronze="3" gold="2" silver="1">Canada</country>
+        <country bronze="0" gold="2" silver="0">New Zealand</country>
+        <country bronze="4" gold="1" silver="4">Poland</country>
+        <country bronze="1" gold="1" silver="4">Czechoslovakia</country>
+        <country bronze="1" gold="1" silver="3">Bulgaria</country>
+        <country bronze="1" gold="1" silver="2">Denmark</country>
+        <country bronze="3" gold="1" silver="1">Ireland</country>
+        <country bronze="2" gold="1" silver="0">Norway</country>
+        <country bronze="1" gold="1" silver="0">Mexico</country>
+        <country bronze="0" gold="1" silver="0">Brazil</country>
+        <country bronze="0" gold="1" silver="0">India</country>
+        <country bronze="0" gold="0" silver="3">Yugoslavia</country>
+        <country bronze="2" gold="0" silver="2">Chile</country>
+        <country bronze="0" gold="0" silver="2">Belgium</country>
+        <country bronze="1" gold="0" silver="1">Argentina</country>
+        <country bronze="1" gold="0" silver="1">South Korea</country>
+        <country bronze="0" gold="0" silver="1">Iceland</country>
+        <country bronze="0" gold="0" silver="1">Pakistan</country>
+        <country bronze="4" gold="0" silver="0">South Africa</country>
+        <country bronze="2" gold="0" silver="0">Austria</country>
+        <country bronze="1" gold="0" silver="0">Bahamas</country>
+        <country bronze="1" gold="0" silver="0">Greece</country>
+        <country bronze="1" gold="0" silver="0">Switzerland</country>
+        <country bronze="1" gold="0" silver="0">Uruguay</country>
+    </olympics>
+    <olympics location="Rome, Italy" year="1960">
+        <country bronze="31" gold="43" silver="29">Soviet Union</country>
+        <country bronze="16" gold="34" silver="21">United States</country>
+        <country bronze="13" gold="13" silver="10">Italy</country>
+        <country bronze="11" gold="12" silver="19">United Team of Germany</country>
+        <country bronze="6" gold="8" silver="8">Australia</country>
+        <country bronze="0" gold="7" silver="2">Turkey</country>
+        <country bronze="7" gold="6" silver="8">Hungary</country>
+        <country bronze="7" gold="4" silver="7">Japan</country>
+        <country bronze="11" gold="4" silver="6">Poland</country>
+        <country bronze="3" gold="3" silver="2">Czechoslovakia</country>
+        <country bronze="6" gold="3" silver="1">Romania</country>
+        <country bronze="12" gold="2" silver="6">Great Britain</country>
+        <country bronze="1" gold="2" silver="3">Denmark</country>
+        <country bronze="1" gold="2" silver="0">New Zealand</country>
+        <country bronze="3" gold="1" silver="3">Bulgaria</country>
+        <country bronze="3" gold="1" silver="2">Sweden</country>
+        <country bronze="3" gold="1" silver="1">Finland</country>
+        <country bronze="0" gold="1" silver="1">Austria</country>
+        <country bronze="0" gold="1" silver="1">Yugoslavia</country>
+        <country bronze="1" gold="1" silver="0">Pakistan</country>
+        <country bronze="0" gold="1" silver="0">Ethiopia</country>
+        <country bronze="0" gold="1" silver="0">Greece</country>
+        <country bronze="0" gold="1" silver="0">Norway</country>
+        <country bronze="3" gold="0" silver="3">Switzerland</country>
+        <country bronze="3" gold="0" silver="2">France</country>
+        <country bronze="2" gold="0" silver="2">Belgium</country>
+        <country bronze="3" gold="0" silver="1">Iran</country>
+        <country bronze="2" gold="0" silver="1">Netherlands</country>
+        <country bronze="2" gold="0" silver="1">South Africa</country>
+        <country bronze="1" gold="0" silver="1">Argentina</country>
+        <country bronze="1" gold="0" silver="1">Egypt</country>
+        <country bronze="0" gold="0" silver="1">Canada</country>
+        <country bronze="0" gold="0" silver="1">Formosa</country>
+        <country bronze="0" gold="0" silver="1">Ghana</country>
+        <country bronze="0" gold="0" silver="1">India</country>
+        <country bronze="0" gold="0" silver="1">Morocco</country>
+        <country bronze="0" gold="0" silver="1">Portugal</country>
+        <country bronze="0" gold="0" silver="1">Singapore</country>
+        <country bronze="2" gold="0" silver="0">Brazil</country>
+        <country bronze="2" gold="0" silver="0">British West Indies</country>
+        <country bronze="1" gold="0" silver="0">Iraq</country>
+        <country bronze="1" gold="0" silver="0">Mexico</country>
+        <country bronze="1" gold="0" silver="0">Spain</country>
+        <country bronze="1" gold="0" silver="0">Venezuela</country>
+    </olympics>
+    <olympics location="Tokyo, Japan" year="1964">
+        <country bronze="28" gold="36" silver="26">United States</country>
+        <country bronze="35" gold="30" silver="31">Soviet Union</country>
+        <country bronze="8" gold="16" silver="5">Japan</country>
+        <country bronze="18" gold="10" silver="22">United Team of Germany</country>
+        <country bronze="7" gold="10" silver="10">Italy</country>
+        <country bronze="5" gold="10" silver="7">Hungary</country>
+        <country bronze="10" gold="7" silver="6">Poland</country>
+        <country bronze="10" gold="6" silver="2">Australia</country>
+        <country bronze="3" gold="5" silver="6">Czechoslovakia</country>
+        <country bronze="2" gold="4" silver="12">Great Britain</country>
+        <country bronze="2" gold="3" silver="5">Bulgaria</country>
+        <country bronze="2" gold="3" silver="0">Finland</country>
+        <country bronze="2" gold="3" silver="0">New Zealand</country>
+        <country bronze="6" gold="2" silver="4">Romania</country>
+        <country bronze="4" gold="2" silver="4">Netherlands</country>
+        <country bronze="1" gold="2" silver="3">Turkey</country>
+        <country bronze="4" gold="2" silver="2">Sweden</country>
+        <country bronze="3" gold="2" silver="1">Denmark</country>
+        <country bronze="2" gold="2" silver="1">Yugoslavia</country>
+        <country bronze="1" gold="2" silver="0">Belgium</country>
+        <country bronze="6" gold="1" silver="8">France</country>
+        <country bronze="1" gold="1" silver="2">Canada</country>
+        <country bronze="1" gold="1" silver="2">Switzerland</country>
+        <country bronze="0" gold="1" silver="0">Bahamas</country>
+        <country bronze="0" gold="1" silver="0">Ethiopia</country>
+        <country bronze="0" gold="1" silver="0">India</country>
+        <country bronze="1" gold="0" silver="2">South Korea</country>
+        <country bronze="2" gold="0" silver="1">Trinidad and Tobago</country>
+        <country bronze="1" gold="0" silver="1">Tunisia</country>
+        <country bronze="0" gold="0" silver="1">Argentina</country>
+        <country bronze="0" gold="0" silver="1">Cuba</country>
+        <country bronze="0" gold="0" silver="1">Pakistan</country>
+        <country bronze="0" gold="0" silver="1">Philippines</country>
+        <country bronze="2" gold="0" silver="0">Iran</country>
+        <country bronze="1" gold="0" silver="0">Brazil</country>
+        <country bronze="1" gold="0" silver="0">Ghana</country>
+        <country bronze="1" gold="0" silver="0">Ireland</country>
+        <country bronze="1" gold="0" silver="0">Kenya</country>
+        <country bronze="1" gold="0" silver="0">Mexico</country>
+        <country bronze="1" gold="0" silver="0">Nigeria</country>
+        <country bronze="1" gold="0" silver="0">Uruguay</country>
+    </olympics>
+    <olympics location="Mexico City, Mexico" year="1968">
+        <country bronze="34" gold="45" silver="28">United States</country>
+        <country bronze="30" gold="29" silver="32">Soviet Union</country>
+        <country bronze="7" gold="11" silver="7">Japan</country>
+        <country bronze="12" gold="10" silver="10">Hungary</country>
+        <country bronze="7" gold="9" silver="9">East Germany</country>
+        <country bronze="5" gold="7" silver="3">France</country>
+        <country bronze="4" gold="7" silver="2">Czechoslovakia</country>
+        <country bronze="10" gold="5" silver="11">West Germany</country>
+        <country bronze="5" gold="5" silver="7">Australia</country>
+        <country bronze="3" gold="5" silver="5">Great Britain</country>
+        <country bronze="11" gold="5" silver="2">Poland</country>
+        <country bronze="5" gold="4" silver="6">Romania</country>
+        <country bronze="9" gold="3" silver="4">Italy</country>
+        <country bronze="2" gold="3" silver="4">Kenya</country>
+        <country bronze="3" gold="3" silver="3">Mexico</country>
+        <country bronze="2" gold="3" silver="3">Yugoslavia</country>
+        <country bronze="1" gold="3" silver="3">Netherlands</country>
+        <country bronze="3" gold="2" silver="4">Bulgaria</country>
+        <country bronze="2" gold="2" silver="1">Iran</country>
+        <country bronze="1" gold="2" silver="1">Sweden</country>
+        <country bronze="0" gold="2" silver="0">Turkey</country>
+        <country bronze="3" gold="1" silver="4">Denmark</country>
+        <country bronze="1" gold="1" silver="3">Canada</country>
+        <country bronze="1" gold="1" silver="2">Finland</country>
+        <country bronze="0" gold="1" silver="1">Ethiopia</country>
+        <country bronze="0" gold="1" silver="1">Norway</country>
+        <country bronze="2" gold="1" silver="0">New Zealand</country>
+        <country bronze="1" gold="1" silver="0">Tunisia</country>
+        <country bronze="0" gold="1" silver="0">Pakistan</country>
+        <country bronze="0" gold="1" silver="0">Venezuela</country>
+        <country bronze="0" gold="0" silver="4">Cuba</country>
+        <country bronze="2" gold="0" silver="2">Austria</country>
+        <country bronze="4" gold="0" silver="1">Switzerland</country>
+        <country bronze="3" gold="0" silver="1">Mongolia</country>
+        <country bronze="2" gold="0" silver="1">Brazil</country>
+        <country bronze="1" gold="0" silver="1">Belgium</country>
+        <country bronze="1" gold="0" silver="1">South Korea</country>
+        <country bronze="1" gold="0" silver="1">Uganda</country>
+        <country bronze="0" gold="0" silver="1">Cameroon</country>
+        <country bronze="0" gold="0" silver="1">Jamaica</country>
+        <country bronze="2" gold="0" silver="0">Argentina</country>
+        <country bronze="1" gold="0" silver="0">Greece</country>
+        <country bronze="1" gold="0" silver="0">India</country>
+        <country bronze="1" gold="0" silver="0">Taiwan</country>
+    </olympics>
+    <olympics location="Munich, West Germany" year="1972">
+        <country bronze="22" gold="50" silver="27">Soviet Union</country>
+        <country bronze="30" gold="33" silver="31">United States</country>
+        <country bronze="23" gold="20" silver="23">East Germany</country>
+        <country bronze="16" gold="13" silver="11">West Germany</country>
+        <country bronze="8" gold="13" silver="8">Japan</country>
+        <country bronze="2" gold="8" silver="7">Australia</country>
+        <country bronze="9" gold="7" silver="5">Poland</country>
+        <country bronze="16" gold="6" silver="13">Hungary</country>
+        <country bronze="5" gold="6" silver="10">Bulgaria</country>
+        <country bronze="10" gold="5" silver="3">Italy</country>
+        <country bronze="6" gold="4" silver="6">Sweden</country>
+        <country bronze="9" gold="4" silver="5">Great Britain</country>
+        <country bronze="7" gold="3" silver="6">Romania</country>
+        <country bronze="4" gold="3" silver="1">Cuba</country>
+        <country bronze="4" gold="3" silver="1">Finland</country>
+        <country bronze="1" gold="3" silver="1">Netherlands</country>
+        <country bronze="7" gold="2" silver="4">France</country>
+        <country bronze="2" gold="2" silver="4">Czechoslovakia</country>
+        <country bronze="4" gold="2" silver="3">Kenya</country>
+        <country bronze="2" gold="2" silver="1">Yugoslavia</country>
+        <country bronze="1" gold="2" silver="1">Norway</country>
+        <country bronze="3" gold="1" silver="1">North Korea</country>
+        <country bronze="1" gold="1" silver="1">New Zealand</country>
+        <country bronze="0" gold="1" silver="1">Uganda</country>
+        <country bronze="0" gold="1" silver="0">Denmark</country>
+        <country bronze="0" gold="0" silver="3">Switzerland</country>
+        <country bronze="3" gold="0" silver="2">Canada</country>
+        <country bronze="1" gold="0" silver="2">Iran</country>
+        <country bronze="0" gold="0" silver="2">Belgium</country>
+        <country bronze="0" gold="0" silver="2">Greece</country>
+        <country bronze="2" gold="0" silver="1">Austria</country>
+        <country bronze="2" gold="0" silver="1">Colombia</country>
+        <country bronze="0" gold="0" silver="1">Argentina</country>
+        <country bronze="0" gold="0" silver="1">Lebanon</country>
+        <country bronze="0" gold="0" silver="1">Mexico</country>
+        <country bronze="0" gold="0" silver="1">Mongolia</country>
+        <country bronze="0" gold="0" silver="1">Pakistan</country>
+        <country bronze="0" gold="0" silver="1">South Korea</country>
+        <country bronze="0" gold="0" silver="1">Tunisia</country>
+        <country bronze="0" gold="0" silver="1">Turkey</country>
+        <country bronze="2" gold="0" silver="0">Brazil</country>
+        <country bronze="2" gold="0" silver="0">Ethiopia</country>
+        <country bronze="1" gold="0" silver="0">Ghana</country>
+        <country bronze="1" gold="0" silver="0">India</country>
+        <country bronze="1" gold="0" silver="0">Jamaica</country>
+        <country bronze="1" gold="0" silver="0">Niger</country>
+        <country bronze="1" gold="0" silver="0">Nigeria</country>
+        <country bronze="1" gold="0" silver="0">Spain</country>
+    </olympics>
+    <olympics location="Montreal, Canada" year="1976">
+        <country bronze="35" gold="49" silver="41">Soviet Union</country>
+        <country bronze="25" gold="40" silver="25">East Germany</country>
+        <country bronze="25" gold="34" silver="35">United States</country>
+        <country bronze="17" gold="10" silver="12">West Germany</country>
+        <country bronze="10" gold="9" silver="6">Japan</country>
+        <country bronze="13" gold="7" silver="6">Poland</country>
+        <country bronze="7" gold="6" silver="9">Bulgaria</country>
+        <country bronze="3" gold="6" silver="4">Cuba</country>
+        <country bronze="14" gold="4" silver="9">Romania</country>
+        <country bronze="13" gold="4" silver="5">Hungary</country>
+        <country bronze="0" gold="4" silver="2">Finland</country>
+        <country bronze="0" gold="4" silver="1">Sweden</country>
+        <country bronze="5" gold="3" silver="5">Great Britain</country>
+        <country bronze="4" gold="2" silver="7">Italy</country>
+        <country bronze="4" gold="2" silver="3">France</country>
+        <country bronze="3" gold="2" silver="3">Yugoslavia</country>
+        <country bronze="4" gold="2" silver="2">Czechoslovakia</country>
+        <country bronze="1" gold="2" silver="1">New Zealand</country>
+        <country bronze="4" gold="1" silver="1">South Korea</country>
+        <country bronze="2" gold="1" silver="1">Switzerland</country>
+        <country bronze="0" gold="1" silver="1">Jamaica</country>
+        <country bronze="0" gold="1" silver="1">North Korea</country>
+        <country bronze="0" gold="1" silver="1">Norway</country>
+        <country bronze="2" gold="1" silver="0">Denmark</country>
+        <country bronze="1" gold="1" silver="0">Mexico</country>
+        <country bronze="0" gold="1" silver="0">Trinidad and Tobago</country>
+        <country bronze="6" gold="0" silver="5">Canada</country>
+        <country bronze="3" gold="0" silver="3">Belgium</country>
+        <country bronze="3" gold="0" silver="2">Netherlands</country>
+        <country bronze="0" gold="0" silver="2">Portugal</country>
+        <country bronze="0" gold="0" silver="2">Spain</country>
+        <country bronze="4" gold="0" silver="1">Australia</country>
+        <country bronze="1" gold="0" silver="1">Iran</country>
+        <country bronze="0" gold="0" silver="1">Mongolia</country>
+        <country bronze="0" gold="0" silver="1">Venezuela</country>
+        <country bronze="2" gold="0" silver="0">Brazil</country>
+        <country bronze="1" gold="0" silver="0">Austria</country>
+        <country bronze="1" gold="0" silver="0">Bermuda</country>
+        <country bronze="1" gold="0" silver="0">Pakistan</country>
+        <country bronze="1" gold="0" silver="0">Puerto Rico</country>
+        <country bronze="1" gold="0" silver="0">Thailand</country>
+    </olympics>
+    <olympics location="Moscow, Soviet Union" year="1980">
+        <country bronze="46" gold="80" silver="69">Soviet Union</country>
+        <country bronze="42" gold="47" silver="37">East Germany</country>
+        <country bronze="17" gold="8" silver="16">Bulgaria</country>
+        <country bronze="5" gold="8" silver="7">Cuba</country>
+        <country bronze="4" gold="8" silver="3">Italy</country>
+        <country bronze="15" gold="7" silver="10">Hungary</country>
+        <country bronze="13" gold="6" silver="6">Romania</country>
+        <country bronze="3" gold="6" silver="5">France</country>
+        <country bronze="9" gold="5" silver="7">Great Britain</country>
+        <country bronze="15" gold="3" silver="14">Poland</country>
+        <country bronze="6" gold="3" silver="3">Sweden</country>
+        <country bronze="4" gold="3" silver="1">Finland</country>
+        <country bronze="9" gold="2" silver="3">Czechoslovakia</country>
+        <country bronze="4" gold="2" silver="3">Yugoslavia</country>
+        <country bronze="5" gold="2" silver="2">Australia</country>
+        <country bronze="2" gold="2" silver="1">Denmark</country>
+        <country bronze="2" gold="2" silver="0">Brazil</country>
+        <country bronze="2" gold="2" silver="0">Ethiopia</country>
+        <country bronze="0" gold="2" silver="0">Switzerland</country>
+        <country bronze="2" gold="1" silver="3">Spain</country>
+        <country bronze="1" gold="1" silver="2">Austria</country>
+        <country bronze="2" gold="1" silver="0">Greece</country>
+        <country bronze="0" gold="1" silver="0">Belgium</country>
+        <country bronze="0" gold="1" silver="0">India</country>
+        <country bronze="0" gold="1" silver="0">Zimbabwe</country>
+        <country bronze="2" gold="0" silver="3">North Korea</country>
+        <country bronze="2" gold="0" silver="2">Mongolia</country>
+        <country bronze="0" gold="0" silver="2">Tanzania</country>
+        <country bronze="3" gold="0" silver="1">Mexico</country>
+        <country bronze="2" gold="0" silver="1">Netherlands</country>
+        <country bronze="1" gold="0" silver="1">Ireland</country>
+        <country bronze="0" gold="0" silver="1">Uganda</country>
+        <country bronze="0" gold="0" silver="1">Venezuela</country>
+        <country bronze="3" gold="0" silver="0">Jamaica</country>
+        <country bronze="1" gold="0" silver="0">Guyana</country>
+        <country bronze="1" gold="0" silver="0">Lebanon</country>
+    </olympics>
+    <olympics location="Los Angeles, United States" year="1984">
+        <country bronze="30" gold="83" silver="61">United States</country>
+        <country bronze="17" gold="20" silver="16">Romania</country>
+        <country bronze="23" gold="17" silver="19">West Germany</country>
+        <country bronze="9" gold="15" silver="8">China</country>
+        <country bronze="12" gold="14" silver="6">Italy</country>
+        <country bronze="16" gold="10" silver="18">Canada</country>
+        <country bronze="14" gold="10" silver="8">Japan</country>
+        <country bronze="2" gold="8" silver="1">New Zealand</country>
+        <country bronze="7" gold="7" silver="4">Yugoslavia</country>
+        <country bronze="7" gold="6" silver="6">South Korea</country>
+        <country bronze="21" gold="5" silver="11">Great Britain</country>
+        <country bronze="16" gold="5" silver="7">France</country>
+        <country bronze="6" gold="5" silver="2">Netherlands</country>
+        <country bronze="12" gold="4" silver="8">Australia</country>
+        <country bronze="6" gold="4" silver="2">Finland</country>
+        <country bronze="6" gold="2" silver="11">Sweden</country>
+        <country bronze="1" gold="2" silver="3">Mexico</country>
+        <country bronze="0" gold="2" silver="0">Morocco</country>
+        <country bronze="2" gold="1" silver="5">Brazil</country>
+        <country bronze="2" gold="1" silver="2">Spain</country>
+        <country bronze="2" gold="1" silver="1">Belgium</country>
+        <country bronze="1" gold="1" silver="1">Austria</country>
+        <country bronze="2" gold="1" silver="0">Kenya</country>
+        <country bronze="2" gold="1" silver="0">Portugal</country>
+        <country bronze="0" gold="1" silver="0">Pakistan</country>
+        <country bronze="4" gold="0" silver="4">Switzerland</country>
+        <country bronze="3" gold="0" silver="3">Denmark</country>
+        <country bronze="2" gold="0" silver="1">Jamaica</country>
+        <country bronze="2" gold="0" silver="1">Norway</country>
+        <country bronze="1" gold="0" silver="1">Greece</country>
+        <country bronze="1" gold="0" silver="1">Nigeria</country>
+        <country bronze="1" gold="0" silver="1">Puerto Rico</country>
+        <country bronze="0" gold="0" silver="1">Colombia</country>
+        <country bronze="0" gold="0" silver="1">Egypt</country>
+        <country bronze="0" gold="0" silver="1">Ireland</country>
+        <country bronze="0" gold="0" silver="1">Ivory Coast</country>
+        <country bronze="0" gold="0" silver="1">Peru</country>
+        <country bronze="0" gold="0" silver="1">Syria</country>
+        <country bronze="0" gold="0" silver="1">Thailand</country>
+        <country bronze="3" gold="0" silver="0">Turkey</country>
+        <country bronze="3" gold="0" silver="0">Venezuela</country>
+        <country bronze="2" gold="0" silver="0">Algeria</country>
+        <country bronze="1" gold="0" silver="0">Cameroon</country>
+        <country bronze="1" gold="0" silver="0">Chinese Taipei</country>
+        <country bronze="1" gold="0" silver="0">Dominican Republic</country>
+        <country bronze="1" gold="0" silver="0">Iceland</country>
+        <country bronze="1" gold="0" silver="0">Zambia</country>
+    </olympics>
+    <olympics location="Seoul, South Korea" year="1988">
+        <country bronze="46" gold="55" silver="31">Soviet Union</country>
+        <country bronze="30" gold="37" silver="35">East Germany</country>
+        <country bronze="27" gold="36" silver="31">United States</country>
+        <country bronze="11" gold="12" silver="10">South Korea</country>
+        <country bronze="15" gold="11" silver="14">West Germany</country>
+        <country bronze="6" gold="11" silver="6">Hungary</country>
+        <country bronze="13" gold="10" silver="12">Bulgaria</country>
+        <country bronze="6" gold="7" silver="11">Romania</country>
+        <country bronze="6" gold="6" silver="4">France</country>
+        <country bronze="4" gold="6" silver="4">Italy</country>
+        <country bronze="12" gold="5" silver="11">China</country>
+        <country bronze="9" gold="5" silver="10">Great Britain</country>
+        <country bronze="2" gold="5" silver="2">Kenya</country>
+        <country bronze="7" gold="4" silver="3">Japan</country>
+        <country bronze="5" gold="3" silver="6">Australia</country>
+        <country bronze="5" gold="3" silver="4">Yugoslavia</country>
+        <country bronze="2" gold="3" silver="3">Czechoslovakia</country>
+        <country bronze="8" gold="3" silver="2">New Zealand</country>
+        <country bronze="5" gold="3" silver="2">Canada</country>
+        <country bronze="9" gold="2" silver="5">Poland</country>
+        <country bronze="0" gold="2" silver="3">Norway</country>
+        <country bronze="5" gold="2" silver="2">Netherlands</country>
+        <country bronze="1" gold="2" silver="1">Denmark</country>
+        <country bronze="3" gold="1" silver="2">Brazil</country>
+        <country bronze="2" gold="1" silver="1">Finland</country>
+        <country bronze="2" gold="1" silver="1">Spain</country>
+        <country bronze="0" gold="1" silver="1">Turkey</country>
+        <country bronze="2" gold="1" silver="0">Morocco</country>
+        <country bronze="0" gold="1" silver="0">Austria</country>
+        <country bronze="0" gold="1" silver="0">Portugal</country>
+        <country bronze="0" gold="1" silver="0">Suriname</country>
+        <country bronze="7" gold="0" silver="4">Sweden</country>
+        <country bronze="2" gold="0" silver="2">Switzerland</country>
+        <country bronze="0" gold="0" silver="2">Jamaica</country>
+        <country bronze="1" gold="0" silver="1">Argentina</country>
+        <country bronze="0" gold="0" silver="1">Chile</country>
+        <country bronze="0" gold="0" silver="1">Costa Rica</country>
+        <country bronze="0" gold="0" silver="1">Indonesia</country>
+        <country bronze="0" gold="0" silver="1">Iran</country>
+        <country bronze="0" gold="0" silver="1">Netherlands Antilles</country>
+        <country bronze="0" gold="0" silver="1">Peru</country>
+        <country bronze="0" gold="0" silver="1">Senegal</country>
+        <country bronze="0" gold="0" silver="1">Virgin Islands</country>
+        <country bronze="2" gold="0" silver="0">Belgium</country>
+        <country bronze="2" gold="0" silver="0">Mexico</country>
+        <country bronze="1" gold="0" silver="0">Colombia</country>
+        <country bronze="1" gold="0" silver="0">Djibouti</country>
+        <country bronze="1" gold="0" silver="0">Greece</country>
+        <country bronze="1" gold="0" silver="0">Mongolia</country>
+        <country bronze="1" gold="0" silver="0">Pakistan</country>
+        <country bronze="1" gold="0" silver="0">Philippines</country>
+        <country bronze="1" gold="0" silver="0">Thailand</country>
+    </olympics>
+    <olympics location="Barcelona, Spain" year="1992">
+        <country bronze="29" gold="45" silver="38">Unified Team</country>
+        <country bronze="37" gold="37" silver="34">United States</country>
+        <country bronze="28" gold="33" silver="21">Germany</country>
+        <country bronze="16" gold="16" silver="22">China</country>
+        <country bronze="11" gold="14" silver="6">Cuba</country>
+        <country bronze="2" gold="13" silver="7">Spain</country>
+        <country bronze="12" gold="12" silver="5">South Korea</country>
+        <country bronze="7" gold="11" silver="12">Hungary</country>
+        <country bronze="16" gold="8" silver="5">France</country>
+        <country bronze="11" gold="7" silver="9">Australia</country>
+        <country bronze="7" gold="7" silver="4">Canada</country>
+        <country bronze="8" gold="6" silver="5">Italy</country>
+        <country bronze="12" gold="5" silver="3">Great Britain</country>
+        <country bronze="8" gold="4" silver="6">Romania</country>
+        <country bronze="1" gold="4" silver="2">Czechoslovakia</country>
+        <country bronze="5" gold="4" silver="0">North Korea</country>
+        <country bronze="11" gold="3" silver="8">Japan</country>
+        <country bronze="6" gold="3" silver="7">Bulgaria</country>
+        <country bronze="10" gold="3" silver="6">Poland</country>
+        <country bronze="7" gold="2" silver="6">Netherlands</country>
+        <country bronze="2" gold="2" silver="4">Kenya</country>
+        <country bronze="1" gold="2" silver="4">Norway</country>
+        <country bronze="2" gold="2" silver="2">Turkey</country>
+        <country bronze="1" gold="2" silver="2">Indonesia</country>
+        <country bronze="0" gold="2" silver="1">Brazil</country>
+        <country bronze="0" gold="2" silver="0">Greece</country>
+        <country bronze="4" gold="1" silver="7">Sweden</country>
+        <country bronze="5" gold="1" silver="4">New Zealand</country>
+        <country bronze="2" gold="1" silver="2">Finland</country>
+        <country bronze="4" gold="1" silver="1">Denmark</country>
+        <country bronze="1" gold="1" silver="1">Morocco</country>
+        <country bronze="0" gold="1" silver="1">Ireland</country>
+        <country bronze="2" gold="1" silver="0">Ethiopia</country>
+        <country bronze="1" gold="1" silver="0">Algeria</country>
+        <country bronze="1" gold="1" silver="0">Estonia</country>
+        <country bronze="1" gold="1" silver="0">Lithuania</country>
+        <country bronze="0" gold="1" silver="0">Switzerland</country>
+        <country bronze="1" gold="0" silver="3">Jamaica</country>
+        <country bronze="1" gold="0" silver="3">Nigeria</country>
+        <country bronze="1" gold="0" silver="2">Latvia</country>
+        <country bronze="0" gold="0" silver="2">Austria</country>
+        <country bronze="0" gold="0" silver="2">Namibia</country>
+        <country bronze="0" gold="0" silver="2">South Africa</country>
+        <country bronze="2" gold="0" silver="1">Belgium</country>
+        <country bronze="2" gold="0" silver="1">Croatia</country>
+        <country bronze="2" gold="0" silver="1">Independent Olympic Participants</country>
+        <country bronze="2" gold="0" silver="1">Iran</country>
+        <country bronze="1" gold="0" silver="1">Israel</country>
+        <country bronze="0" gold="0" silver="1">Chinese Taipei</country>
+        <country bronze="0" gold="0" silver="1">Mexico</country>
+        <country bronze="0" gold="0" silver="1">Peru</country>
+        <country bronze="2" gold="0" silver="0">Mongolia</country>
+        <country bronze="2" gold="0" silver="0">Slovenia</country>
+        <country bronze="1" gold="0" silver="0">Argentina</country>
+        <country bronze="1" gold="0" silver="0">Bahamas</country>
+        <country bronze="1" gold="0" silver="0">Colombia</country>
+        <country bronze="1" gold="0" silver="0">Ghana</country>
+        <country bronze="1" gold="0" silver="0">Malaysia</country>
+        <country bronze="1" gold="0" silver="0">Pakistan</country>
+        <country bronze="1" gold="0" silver="0">Philippines</country>
+        <country bronze="1" gold="0" silver="0">Puerto Rico</country>
+        <country bronze="1" gold="0" silver="0">Qatar</country>
+        <country bronze="1" gold="0" silver="0">Suriname</country>
+        <country bronze="1" gold="0" silver="0">Thailand</country>
+    </olympics>
+    <olympics location="Atlanta, United States" year="1996">
+        <country bronze="25" gold="44" silver="32">United States</country>
+        <country bronze="16" gold="26" silver="21">Russia</country>
+        <country bronze="27" gold="20" silver="18">Germany</country>
+        <country bronze="12" gold="16" silver="22">China</country>
+        <country bronze="15" gold="15" silver="7">France</country>
+        <country bronze="12" gold="13" silver="10">Italy</country>
+        <country bronze="23" gold="9" silver="9">Australia</country>
+        <country bronze="8" gold="9" silver="8">Cuba</country>
+        <country bronze="12" gold="9" silver="2">Ukraine</country>
+        <country bronze="5" gold="7" silver="15">South Korea</country>
+        <country bronze="5" gold="7" silver="5">Poland</country>
+        <country bronze="10" gold="7" silver="4">Hungary</country>
+        <country bronze="6" gold="5" silver="6">Spain</country>
+        <country bronze="9" gold="4" silver="7">Romania</country>
+        <country bronze="10" gold="4" silver="5">Netherlands</country>
+        <country bronze="0" gold="4" silver="4">Greece</country>
+        <country bronze="4" gold="4" silver="3">Czech Republic</country>
+        <country bronze="0" gold="4" silver="3">Switzerland</country>
+        <country bronze="1" gold="4" silver="1">Denmark</country>
+        <country bronze="1" gold="4" silver="1">Turkey</country>
+        <country bronze="8" gold="3" silver="11">Canada</country>
+        <country bronze="5" gold="3" silver="7">Bulgaria</country>
+        <country bronze="5" gold="3" silver="6">Japan</country>
+        <country bronze="4" gold="3" silver="4">Kazakhstan</country>
+        <country bronze="9" gold="3" silver="3">Brazil</country>
+        <country bronze="1" gold="3" silver="2">New Zealand</country>
+        <country bronze="1" gold="3" silver="1">South Africa</country>
+        <country bronze="1" gold="3" silver="0">Ireland</country>
+        <country bronze="2" gold="2" silver="4">Sweden</country>
+        <country bronze="3" gold="2" silver="2">Norway</country>
+        <country bronze="2" gold="2" silver="2">Belgium</country>
+        <country bronze="3" gold="2" silver="1">Nigeria</country>
+        <country bronze="2" gold="2" silver="1">North Korea</country>
+        <country bronze="1" gold="2" silver="0">Algeria</country>
+        <country bronze="1" gold="2" silver="0">Ethiopia</country>
+        <country bronze="6" gold="1" silver="8">Great Britain</country>
+        <country bronze="8" gold="1" silver="6">Belarus</country>
+        <country bronze="3" gold="1" silver="4">Kenya</country>
+        <country bronze="2" gold="1" silver="3">Jamaica</country>
+        <country bronze="1" gold="1" silver="2">Finland</country>
+        <country bronze="2" gold="1" silver="1">FR Yugoslavia</country>
+        <country bronze="2" gold="1" silver="1">Indonesia</country>
+        <country bronze="1" gold="1" silver="1">Iran</country>
+        <country bronze="1" gold="1" silver="1">Slovakia</country>
+        <country bronze="0" gold="1" silver="1">Armenia</country>
+        <country bronze="0" gold="1" silver="1">Croatia</country>
+        <country bronze="1" gold="1" silver="0">Portugal</country>
+        <country bronze="1" gold="1" silver="0">Thailand</country>
+        <country bronze="0" gold="1" silver="0">Burundi</country>
+        <country bronze="0" gold="1" silver="0">Costa Rica</country>
+        <country bronze="0" gold="1" silver="0">Ecuador</country>
+        <country bronze="0" gold="1" silver="0">Hong Kong</country>
+        <country bronze="0" gold="1" silver="0">Syria</country>
+        <country bronze="1" gold="0" silver="2">Argentina</country>
+        <country bronze="0" gold="0" silver="2">Namibia</country>
+        <country bronze="0" gold="0" silver="2">Slovenia</country>
+        <country bronze="2" gold="0" silver="1">Austria</country>
+        <country bronze="1" gold="0" silver="1">Malaysia</country>
+        <country bronze="1" gold="0" silver="1">Moldova</country>
+        <country bronze="1" gold="0" silver="1">Uzbekistan</country>
+        <country bronze="0" gold="0" silver="1">Azerbaijan</country>
+        <country bronze="0" gold="0" silver="1">Bahamas</country>
+        <country bronze="0" gold="0" silver="1">Chinese Taipei</country>
+        <country bronze="0" gold="0" silver="1">Latvia</country>
+        <country bronze="0" gold="0" silver="1">Philippines</country>
+        <country bronze="0" gold="0" silver="1">Tonga</country>
+        <country bronze="0" gold="0" silver="1">Zambia</country>
+        <country bronze="2" gold="0" silver="0">Georgia</country>
+        <country bronze="2" gold="0" silver="0">Morocco</country>
+        <country bronze="2" gold="0" silver="0">Trinidad and Tobago</country>
+        <country bronze="1" gold="0" silver="0">India</country>
+        <country bronze="1" gold="0" silver="0">Israel</country>
+        <country bronze="1" gold="0" silver="0">Lithuania</country>
+        <country bronze="1" gold="0" silver="0">Mexico</country>
+        <country bronze="1" gold="0" silver="0">Mongolia</country>
+        <country bronze="1" gold="0" silver="0">Mozambique</country>
+        <country bronze="1" gold="0" silver="0">Puerto Rico</country>
+        <country bronze="1" gold="0" silver="0">Tunisia</country>
+        <country bronze="1" gold="0" silver="0">Uganda</country>
+    </olympics>
+    <olympics location="Sydney, Australia" year="2000">
+        <country bronze="32" gold="37" silver="24">United States</country>
+        <country bronze="29" gold="32" silver="28">Russia</country>
+        <country bronze="14" gold="28" silver="16">China</country>
+        <country bronze="17" gold="16" silver="25">Australia</country>
+        <country bronze="26" gold="13" silver="17">Germany</country>
+        <country bronze="11" gold="13" silver="14">France</country>
+        <country bronze="13" gold="13" silver="8">Italy</country>
+        <country bronze="4" gold="12" silver="9">Netherlands</country>
+        <country bronze="7" gold="11" silver="11">Cuba</country>
+        <country bronze="7" gold="11" silver="10">Great Britain</country>
+        <country bronze="9" gold="11" silver="6">Romania</country>
+        <country bronze="10" gold="8" silver="10">South Korea</country>
+        <country bronze="3" gold="8" silver="6">Hungary</country>
+        <country bronze="3" gold="6" silver="5">Poland</country>
+        <country bronze="5" gold="5" silver="8">Japan</country>
+        <country bronze="2" gold="5" silver="6">Bulgaria</country>
+        <country bronze="3" gold="4" silver="6">Greece</country>
+        <country bronze="3" gold="4" silver="5">Sweden</country>
+        <country bronze="3" gold="4" silver="3">Norway</country>
+        <country bronze="3" gold="4" silver="1">Ethiopia</country>
+        <country bronze="10" gold="3" silver="10">Ukraine</country>
+        <country bronze="0" gold="3" silver="4">Kazakhstan</country>
+        <country bronze="11" gold="3" silver="3">Belarus</country>
+        <country bronze="8" gold="3" silver="3">Canada</country>
+        <country bronze="5" gold="3" silver="3">Spain</country>
+        <country bronze="2" gold="3" silver="0">Turkey</country>
+        <country bronze="1" gold="3" silver="0">Iran</country>
+        <country bronze="3" gold="2" silver="3">Czech Republic</country>
+        <country bronze="2" gold="2" silver="3">Kenya</country>
+        <country bronze="1" gold="2" silver="3">Denmark</country>
+        <country bronze="1" gold="2" silver="1">Finland</country>
+        <country bronze="0" gold="2" silver="1">Austria</country>
+        <country bronze="3" gold="2" silver="0">Lithuania</country>
+        <country bronze="1" gold="2" silver="0">Azerbaijan</country>
+        <country bronze="1" gold="2" silver="0">Bahamas</country>
+        <country bronze="0" gold="2" silver="0">Slovenia</country>
+        <country bronze="2" gold="1" silver="6">Switzerland</country>
+        <country bronze="2" gold="1" silver="3">Indonesia</country>
+        <country bronze="1" gold="1" silver="3">Slovakia</country>
+        <country bronze="3" gold="1" silver="2">Mexico</country>
+        <country bronze="0" gold="1" silver="2">Nigeria</country>
+        <country bronze="3" gold="1" silver="1">Algeria</country>
+        <country bronze="2" gold="1" silver="1">Uzbekistan</country>
+        <country bronze="1" gold="1" silver="1">FR Yugoslavia</country>
+        <country bronze="1" gold="1" silver="1">Latvia</country>
+        <country bronze="3" gold="1" silver="0">New Zealand</country>
+        <country bronze="2" gold="1" silver="0">Estonia</country>
+        <country bronze="2" gold="1" silver="0">Thailand</country>
+        <country bronze="1" gold="1" silver="0">Croatia</country>
+        <country bronze="0" gold="1" silver="0">Cameroon</country>
+        <country bronze="0" gold="1" silver="0">Colombia</country>
+        <country bronze="0" gold="1" silver="0">Mozambique</country>
+        <country bronze="6" gold="0" silver="6">Brazil</country>
+        <country bronze="3" gold="0" silver="6">Jamaica</country>
+        <country bronze="3" gold="0" silver="2">Belgium</country>
+        <country bronze="3" gold="0" silver="2">South Africa</country>
+        <country bronze="2" gold="0" silver="2">Argentina</country>
+        <country bronze="4" gold="0" silver="1">Chinese Taipei</country>
+        <country bronze="4" gold="0" silver="1">Morocco</country>
+        <country bronze="3" gold="0" silver="1">North Korea</country>
+        <country bronze="1" gold="0" silver="1">Moldova</country>
+        <country bronze="1" gold="0" silver="1">Saudi Arabia</country>
+        <country bronze="1" gold="0" silver="1">Trinidad and Tobago</country>
+        <country bronze="0" gold="0" silver="1">Ireland</country>
+        <country bronze="0" gold="0" silver="1">Sri Lanka</country>
+        <country bronze="0" gold="0" silver="1">Uruguay</country>
+        <country bronze="0" gold="0" silver="1">Vietnam</country>
+        <country bronze="6" gold="0" silver="0">Georgia</country>
+        <country bronze="2" gold="0" silver="0">Costa Rica</country>
+        <country bronze="2" gold="0" silver="0">Portugal</country>
+        <country bronze="1" gold="0" silver="0">Armenia</country>
+        <country bronze="1" gold="0" silver="0">Barbados</country>
+        <country bronze="1" gold="0" silver="0">Chile</country>
+        <country bronze="1" gold="0" silver="0">Iceland</country>
+        <country bronze="1" gold="0" silver="0">India</country>
+        <country bronze="1" gold="0" silver="0">Israel</country>
+        <country bronze="1" gold="0" silver="0">Kuwait</country>
+        <country bronze="1" gold="0" silver="0">Kyrgyzstan</country>
+        <country bronze="1" gold="0" silver="0">Macedonia</country>
+        <country bronze="1" gold="0" silver="0">Qatar</country>
+    </olympics>
+    <olympics location="Athens, Greece" year="2004">
+        <country bronze="26" gold="36" silver="39">United States</country>
+        <country bronze="14" gold="32" silver="17">China</country>
+        <country bronze="36" gold="28" silver="26">Russia</country>
+        <country bronze="17" gold="17" silver="16">Australia</country>
+        <country bronze="12" gold="16" silver="9">Japan</country>
+        <country bronze="20" gold="13" silver="16">Germany</country>
+        <country bronze="13" gold="11" silver="9">France</country>
+        <country bronze="11" gold="10" silver="11">Italy</country>
+        <country bronze="9" gold="9" silver="12">South Korea</country>
+        <country bronze="12" gold="9" silver="9">Great Britain</country>
+        <country bronze="11" gold="9" silver="7">Cuba</country>
+        <country bronze="3" gold="8" silver="6">Hungary</country>
+        <country bronze="9" gold="8" silver="5">Ukraine</country>
+        <country bronze="6" gold="8" silver="5">Romania</country>
+        <country bronze="4" gold="6" silver="6">Greece</country>
+        <country bronze="3" gold="5" silver="2">Brazil</country>
+        <country bronze="1" gold="5" silver="0">Norway</country>
+        <country bronze="9" gold="4" silver="9">Netherlands</country>
+        <country bronze="1" gold="4" silver="2">Sweden</country>
+        <country bronze="6" gold="3" silver="11">Spain</country>
+        <country bronze="3" gold="3" silver="6">Canada</country>
+        <country bronze="5" gold="3" silver="3">Turkey</country>
+        <country bronze="5" gold="3" silver="2">Poland</country>
+        <country bronze="0" gold="3" silver="2">New Zealand</country>
+        <country bronze="4" gold="3" silver="1">Thailand</country>
+        <country bronze="6" gold="2" silver="5">Belarus</country>
+        <country bronze="1" gold="2" silver="4">Austria</country>
+        <country bronze="2" gold="2" silver="3">Ethiopia</country>
+        <country bronze="2" gold="2" silver="2">Iran</country>
+        <country bronze="2" gold="2" silver="2">Slovakia</country>
+        <country bronze="1" gold="2" silver="2">Chinese Taipei</country>
+        <country bronze="0" gold="2" silver="2">Georgia</country>
+        <country bronze="9" gold="2" silver="1">Bulgaria</country>
+        <country bronze="5" gold="2" silver="1">Denmark</country>
+        <country bronze="2" gold="2" silver="1">Jamaica</country>
+        <country bronze="2" gold="2" silver="1">Uzbekistan</country>
+        <country bronze="0" gold="2" silver="1">Morocco</country>
+        <country bronze="4" gold="2" silver="0">Argentina</country>
+        <country bronze="1" gold="2" silver="0">Chile</country>
+        <country bronze="3" gold="1" silver="4">Kazakhstan</country>
+        <country bronze="2" gold="1" silver="4">Kenya</country>
+        <country bronze="5" gold="1" silver="3">Czech Republic</country>
+        <country bronze="2" gold="1" silver="3">South Africa</country>
+        <country bronze="2" gold="1" silver="2">Croatia</country>
+        <country bronze="0" gold="1" silver="2">Lithuania</country>
+        <country bronze="3" gold="1" silver="1">Egypt</country>
+        <country bronze="3" gold="1" silver="1">Switzerland</country>
+        <country bronze="2" gold="1" silver="1">Indonesia</country>
+        <country bronze="1" gold="1" silver="1">Zimbabwe</country>
+        <country bronze="4" gold="1" silver="0">Azerbaijan</country>
+        <country bronze="2" gold="1" silver="0">Belgium</country>
+        <country bronze="1" gold="1" silver="0">Bahamas</country>
+        <country bronze="1" gold="1" silver="0">Israel</country>
+        <country bronze="0" gold="1" silver="0">Cameroon</country>
+        <country bronze="0" gold="1" silver="0">Dominican Republic</country>
+        <country bronze="0" gold="1" silver="0">United Arab Emirates</country>
+        <country bronze="1" gold="0" silver="4">North Korea</country>
+        <country bronze="0" gold="0" silver="4">Latvia</country>
+        <country bronze="1" gold="0" silver="3">Mexico</country>
+        <country bronze="1" gold="0" silver="2">Portugal</country>
+        <country bronze="0" gold="0" silver="2">Finland</country>
+        <country bronze="0" gold="0" silver="2">Serbia and Montenegro</country>
+        <country bronze="3" gold="0" silver="1">Slovenia</country>
+        <country bronze="2" gold="0" silver="1">Estonia</country>
+        <country bronze="0" gold="0" silver="1">Hong Kong</country>
+        <country bronze="0" gold="0" silver="1">India</country>
+        <country bronze="0" gold="0" silver="1">Paraguay</country>
+        <country bronze="2" gold="0" silver="0">Colombia</country>
+        <country bronze="2" gold="0" silver="0">Nigeria</country>
+        <country bronze="2" gold="0" silver="0">Venezuela</country>
+        <country bronze="1" gold="0" silver="0">Eritrea</country>
+        <country bronze="1" gold="0" silver="0">Mongolia</country>
+        <country bronze="1" gold="0" silver="0">Syria</country>
+        <country bronze="1" gold="0" silver="0">Trinidad and Tobago</country>
+    </olympics>
+    <olympics location="Beijing, China" year="2008">
+        <country bronze="30" gold="48" silver="22">China</country>
+        <country bronze="37" gold="36" silver="39">United States</country>
+        <country bronze="23" gold="24" silver="13">Russia</country>
+        <country bronze="19" gold="19" silver="13">Great Britain</country>
+        <country bronze="14" gold="16" silver="11">Germany</country>
+        <country bronze="17" gold="14" silver="15">Australia</country>
+        <country bronze="8" gold="13" silver="11">South Korea</country>
+        <country bronze="8" gold="9" silver="8">Japan</country>
+        <country bronze="10" gold="8" silver="9">Italy</country>
+        <country bronze="20" gold="7" silver="16">France</country>
+        <country bronze="4" gold="7" silver="5">Netherlands</country>
+        <country bronze="11" gold="7" silver="4">Ukraine</country>
+        <country bronze="6" gold="6" silver="4">Kenya</country>
+        <country bronze="3" gold="5" silver="11">Spain</country>
+        <country bronze="2" gold="5" silver="4">Jamaica</country>
+        <country bronze="2" gold="4" silver="5">Poland</country>
+        <country bronze="1" gold="4" silver="2">Ethiopia</country>
+        <country bronze="4" gold="4" silver="1">Romania</country>
+        <country bronze="17" gold="3" silver="10">Cuba</country>
+        <country bronze="8" gold="3" silver="9">Canada</country>
+        <country bronze="2" gold="3" silver="5">Hungary</country>
+        <country bronze="1" gold="3" silver="5">Norway</country>
+        <country bronze="10" gold="3" silver="4">Brazil</country>
+        <country bronze="7" gold="3" silver="4">Belarus</country>
+        <country bronze="1" gold="3" silver="3">Czech Republic</country>
+        <country bronze="0" gold="3" silver="3">Slovakia</country>
+        <country bronze="4" gold="3" silver="2">New Zealand</country>
+        <country bronze="2" gold="3" silver="2">Georgia</country>
+        <country bronze="4" gold="2" silver="3">Kazakhstan</country>
+        <country bronze="3" gold="2" silver="2">Denmark</country>
+        <country bronze="2" gold="2" silver="2">North Korea</country>
+        <country bronze="2" gold="2" silver="2">Thailand</country>
+        <country bronze="0" gold="2" silver="2">Mongolia</country>
+        <country bronze="4" gold="2" silver="1">Switzerland</country>
+        <country bronze="4" gold="2" silver="0">Argentina</country>
+        <country bronze="2" gold="2" silver="0">Mexico</country>
+        <country bronze="0" gold="2" silver="0">Belgium</country>
+        <country bronze="0" gold="1" silver="3">Zimbabwe</country>
+        <country bronze="2" gold="1" silver="2">Slovenia</country>
+        <country bronze="4" gold="1" silver="1">Azerbaijan</country>
+        <country bronze="4" gold="1" silver="1">Indonesia</country>
+        <country bronze="3" gold="1" silver="1">Bulgaria</country>
+        <country bronze="3" gold="1" silver="1">Turkey</country>
+        <country bronze="2" gold="1" silver="1">Chinese Taipei</country>
+        <country bronze="2" gold="1" silver="1">Finland</country>
+        <country bronze="1" gold="1" silver="1">Latvia</country>
+        <country bronze="0" gold="1" silver="1">Dominican Republic</country>
+        <country bronze="0" gold="1" silver="1">Estonia</country>
+        <country bronze="0" gold="1" silver="1">Portugal</country>
+        <country bronze="0" gold="1" silver="1">Trinidad and Tobago</country>
+        <country bronze="2" gold="1" silver="0">India</country>
+        <country bronze="1" gold="1" silver="0">Iran</country>
+        <country bronze="0" gold="1" silver="0">Cameroon</country>
+        <country bronze="0" gold="1" silver="0">Panama</country>
+        <country bronze="0" gold="1" silver="0">Tunisia</country>
+        <country bronze="1" gold="0" silver="4">Sweden</country>
+        <country bronze="2" gold="0" silver="3">Lithuania</country>
+        <country bronze="2" gold="0" silver="3">Nigeria</country>
+        <country bronze="3" gold="0" silver="2">Croatia</country>
+        <country bronze="1" gold="0" silver="2">Colombia</country>
+        <country bronze="1" gold="0" silver="2">Greece</country>
+        <country bronze="4" gold="0" silver="1">Armenia</country>
+        <country bronze="3" gold="0" silver="1">Uzbekistan</country>
+        <country bronze="2" gold="0" silver="1">Austria</country>
+        <country bronze="2" gold="0" silver="1">Ireland</country>
+        <country bronze="2" gold="0" silver="1">Kyrgyzstan</country>
+        <country bronze="2" gold="0" silver="1">Serbia</country>
+        <country bronze="1" gold="0" silver="1">Algeria</country>
+        <country bronze="1" gold="0" silver="1">Bahamas</country>
+        <country bronze="1" gold="0" silver="1">Morocco</country>
+        <country bronze="1" gold="0" silver="1">Tajikistan</country>
+        <country bronze="0" gold="0" silver="1">Chile</country>
+        <country bronze="0" gold="0" silver="1">Ecuador</country>
+        <country bronze="0" gold="0" silver="1">Iceland</country>
+        <country bronze="0" gold="0" silver="1">Malaysia</country>
+        <country bronze="0" gold="0" silver="1">Samoa</country>
+        <country bronze="0" gold="0" silver="1">Singapore</country>
+        <country bronze="0" gold="0" silver="1">South Africa</country>
+        <country bronze="0" gold="0" silver="1">Sudan</country>
+        <country bronze="0" gold="0" silver="1">Vietnam</country>
+        <country bronze="2" gold="0" silver="0">Egypt</country>
+        <country bronze="1" gold="0" silver="0">Afghanistan</country>
+        <country bronze="1" gold="0" silver="0">Israel</country>
+        <country bronze="1" gold="0" silver="0">Mauritius</country>
+        <country bronze="1" gold="0" silver="0">Moldova</country>
+        <country bronze="1" gold="0" silver="0">Togo</country>
+        <country bronze="1" gold="0" silver="0">Venezuela</country>
+    </olympics>
+    <olympics location="London, Great Britain" year="2012">
+        <country bronze="30" gold="46" silver="28">United States</country>
+        <country bronze="22" gold="38" silver="31">China</country>
+        <country bronze="19" gold="29" silver="17">Great Britain</country>
+        <country bronze="28" gold="20" silver="20">Russia</country>
+        <country bronze="8" gold="13" silver="9">South Korea</country>
+        <country bronze="13" gold="11" silver="20">Germany</country>
+        <country bronze="13" gold="11" silver="11">France</country>
+        <country bronze="12" gold="8" silver="15">Australia</country>
+        <country bronze="11" gold="8" silver="9">Italy</country>
+        <country bronze="6" gold="8" silver="4">Hungary</country>
+        <country bronze="17" gold="7" silver="14">Japan</country>
+        <country bronze="1" gold="7" silver="5">Iran</country>
+        <country bronze="8" gold="6" silver="6">Netherlands</country>
+        <country bronze="5" gold="6" silver="2">New Zealand</country>
+        <country bronze="10" gold="5" silver="4">Ukraine</country>
+        <country bronze="7" gold="5" silver="3">Cuba</country>
+        <country bronze="5" gold="4" silver="10">Spain</country>
+        <country bronze="3" gold="4" silver="5">Jamaica</country>
+        <country bronze="4" gold="4" silver="3">Czech Republic</country>
+        <country bronze="1" gold="4" silver="1">South Africa</country>
+        <country bronze="3" gold="4" silver="0">North Korea</country>
+        <country bronze="9" gold="3" silver="5">Brazil</country>
+        <country bronze="6" gold="3" silver="2">Poland</country>
+        <country bronze="3" gold="3" silver="2">Ethiopia</country>
+        <country bronze="7" gold="3" silver="1">Kazakhstan</country>
+        <country bronze="2" gold="3" silver="1">Croatia</country>
+        <country bronze="10" gold="2" silver="6">Canada</country>
+        <country bronze="3" gold="2" silver="5">Belarus</country>
+        <country bronze="7" gold="2" silver="4">Kenya</country>
+        <country bronze="3" gold="2" silver="4">Denmark</country>
+        <country bronze="1" gold="2" silver="4">Romania</country>
+        <country bronze="5" gold="2" silver="2">Azerbaijan</country>
+        <country bronze="0" gold="2" silver="2">Switzerland</country>
+        <country bronze="1" gold="2" silver="1">Norway</country>
+        <country bronze="3" gold="2" silver="0">Lithuania</country>
+        <country bronze="1" gold="2" silver="0">Tunisia</country>
+        <country bronze="3" gold="1" silver="4">Sweden</country>
+        <country bronze="5" gold="1" silver="3">Colombia</country>
+        <country bronze="4" gold="1" silver="3">Mexico</country>
+        <country bronze="3" gold="1" silver="2">Georgia</country>
+        <country bronze="4" gold="1" silver="1">Ireland</country>
+        <country bronze="2" gold="1" silver="1">Argentina</country>
+        <country bronze="2" gold="1" silver="1">Serbia</country>
+        <country bronze="2" gold="1" silver="1">Slovenia</country>
+        <country bronze="2" gold="1" silver="1">Trinidad and Tobago</country>
+        <country bronze="1" gold="1" silver="1">Turkey</country>
+        <country bronze="0" gold="1" silver="1">Dominican Republic</country>
+        <country bronze="1" gold="1" silver="0">Chinese Taipei</country>
+        <country bronze="1" gold="1" silver="0">Latvia</country>
+        <country bronze="0" gold="1" silver="0">Algeria</country>
+        <country bronze="0" gold="1" silver="0">Bahamas</country>
+        <country bronze="0" gold="1" silver="0">Bahrain</country>
+        <country bronze="0" gold="1" silver="0">Grenada</country>
+        <country bronze="0" gold="1" silver="0">Uganda</country>
+        <country bronze="0" gold="1" silver="0">Venezuela</country>
+        <country bronze="1" gold="0" silver="3">Egypt</country>
+        <country bronze="4" gold="0" silver="2">India</country>
+        <country bronze="3" gold="0" silver="2">Mongolia</country>
+        <country bronze="2" gold="0" silver="2">Thailand</country>
+        <country bronze="1" gold="0" silver="2">Bulgaria</country>
+        <country bronze="1" gold="0" silver="2">Finland</country>
+        <country bronze="1" gold="0" silver="2">Indonesia</country>
+        <country bronze="3" gold="0" silver="1">Slovakia</country>
+        <country bronze="2" gold="0" silver="1">Belgium</country>
+        <country bronze="1" gold="0" silver="1">Armenia</country>
+        <country bronze="1" gold="0" silver="1">Estonia</country>
+        <country bronze="1" gold="0" silver="1">Malaysia</country>
+        <country bronze="1" gold="0" silver="1">Puerto Rico</country>
+        <country bronze="0" gold="0" silver="1">Botswana</country>
+        <country bronze="0" gold="0" silver="1">Cyprus</country>
+        <country bronze="0" gold="0" silver="1">Gabon</country>
+        <country bronze="0" gold="0" silver="1">Guatemala</country>
+        <country bronze="0" gold="0" silver="1">Montenegro</country>
+        <country bronze="0" gold="0" silver="1">Portugal</country>
+        <country bronze="3" gold="0" silver="0">Uzbekistan</country>
+        <country bronze="2" gold="0" silver="0">Greece</country>
+        <country bronze="2" gold="0" silver="0">Qatar</country>
+        <country bronze="2" gold="0" silver="0">Singapore</country>
+        <country bronze="1" gold="0" silver="0">Afghanistan</country>
+        <country bronze="1" gold="0" silver="0">Cameroon</country>
+        <country bronze="1" gold="0" silver="0">Hong Kong</country>
+        <country bronze="1" gold="0" silver="0">Kuwait</country>
+        <country bronze="1" gold="0" silver="0">Morocco</country>
+        <country bronze="1" gold="0" silver="0">Saudi Arabia</country>
+        <country bronze="1" gold="0" silver="0">Tajikistan</country>
+        <country bronze="1" gold="0" silver="0">Vietnam</country>
+    </olympics>
+    <olympics location="Rio de Janeiro, Brazil" year="2016">
+        <country bronze="38" gold="46" silver="37">United States</country>
+        <country bronze="17" gold="27" silver="23">Great Britain</country>
+        <country bronze="26" gold="26" silver="18">China</country>
+        <country bronze="20" gold="19" silver="17">Russia</country>
+        <country bronze="15" gold="17" silver="10">Germany</country>
+        <country bronze="21" gold="12" silver="8">Japan</country>
+        <country bronze="14" gold="10" silver="18">France</country>
+        <country bronze="9" gold="9" silver="3">South Korea</country>
+        <country bronze="8" gold="8" silver="12">Italy</country>
+        <country bronze="10" gold="8" silver="11">Australia</country>
+        <country bronze="4" gold="8" silver="7">Netherlands</country>
+        <country bronze="4" gold="8" silver="3">Hungary</country>
+        <country bronze="6" gold="7" silver="6">Brazil</country>
+        <country bronze="6" gold="7" silver="4">Spain</country>
+        <country bronze="1" gold="6" silver="6">Kenya</country>
+        <country bronze="2" gold="6" silver="3">Jamaica</country>
+        <country bronze="2" gold="5" silver="3">Croatia</country>
+        <country bronze="4" gold="5" silver="2">Cuba</country>
+        <country bronze="5" gold="4" silver="9">New Zealand</country>
+        <country bronze="15" gold="4" silver="3">Canada</country>
+        <country bronze="7" gold="4" silver="2">Uzbekistan</country>
+        <country bronze="10" gold="3" silver="5">Kazakhstan</country>
+        <country bronze="3" gold="3" silver="2">Colombia</country>
+        <country bronze="2" gold="3" silver="2">Switzerland</country>
+        <country bronze="4" gold="3" silver="1">Iran</country>
+        <country bronze="2" gold="3" silver="1">Greece</country>
+        <country bronze="0" gold="3" silver="1">Argentina</country>
+        <country bronze="7" gold="2" silver="6">Denmark</country>
+        <country bronze="3" gold="2" silver="6">Sweden</country>
+        <country bronze="2" gold="2" silver="6">South Africa</country>
+        <country bronze="4" gold="2" silver="5">Ukraine</country>
+        <country bronze="2" gold="2" silver="4">Serbia</country>
+        <country bronze="6" gold="2" silver="3">Poland</country>
+        <country bronze="2" gold="2" silver="3">North Korea</country>
+        <country bronze="2" gold="2" silver="2">Belgium</country>
+        <country bronze="2" gold="2" silver="2">Thailand</country>
+        <country bronze="0" gold="2" silver="2">Slovakia</country>
+        <country bronze="4" gold="2" silver="1">Georgia</country>
+        <country bronze="10" gold="1" silver="7">Azerbaijan</country>
+        <country bronze="4" gold="1" silver="4">Belarus</country>
+        <country bronze="4" gold="1" silver="3">Turkey</country>
+        <country bronze="0" gold="1" silver="3">Armenia</country>
+        <country bronze="7" gold="1" silver="2">Czech Republic</country>
+        <country bronze="5" gold="1" silver="2">Ethiopia</country>
+        <country bronze="1" gold="1" silver="2">Slovenia</country>
+        <country bronze="0" gold="1" silver="2">Indonesia</country>
+        <country bronze="2" gold="1" silver="1">Romania</country>
+        <country bronze="0" gold="1" silver="1">Bahrain</country>
+        <country bronze="0" gold="1" silver="1">Vietnam</country>
+        <country bronze="2" gold="1" silver="0">Chinese Taipei</country>
+        <country bronze="1" gold="1" silver="0">Bahamas</country>
+        <country bronze="1" gold="1" silver="0">Independent Olympic Athletes</country>
+        <country bronze="1" gold="1" silver="0">Ivory Coast</country>
+        <country bronze="0" gold="1" silver="0">Fiji</country>
+        <country bronze="0" gold="1" silver="0">Jordan</country>
+        <country bronze="0" gold="1" silver="0">Kosovo</country>
+        <country bronze="0" gold="1" silver="0">Puerto Rico</country>
+        <country bronze="0" gold="1" silver="0">Singapore</country>
+        <country bronze="0" gold="1" silver="0">Tajikistan</country>
+        <country bronze="1" gold="0" silver="4">Malaysia</country>
+        <country bronze="2" gold="0" silver="3">Mexico</country>
+        <country bronze="1" gold="0" silver="2">Venezuela</country>
+        <country bronze="0" gold="0" silver="2">Algeria</country>
+        <country bronze="0" gold="0" silver="2">Ireland</country>
+        <country bronze="3" gold="0" silver="1">Lithuania</country>
+        <country bronze="2" gold="0" silver="1">Bulgaria</country>
+        <country bronze="1" gold="0" silver="1">India</country>
+        <country bronze="1" gold="0" silver="1">Mongolia</country>
+        <country bronze="0" gold="0" silver="1">Burundi</country>
+        <country bronze="0" gold="0" silver="1">Grenada</country>
+        <country bronze="0" gold="0" silver="1">Niger</country>
+        <country bronze="0" gold="0" silver="1">Philippines</country>
+        <country bronze="0" gold="0" silver="1">Qatar</country>
+        <country bronze="4" gold="0" silver="0">Norway</country>
+        <country bronze="3" gold="0" silver="0">Egypt</country>
+        <country bronze="3" gold="0" silver="0">Tunisia</country>
+        <country bronze="2" gold="0" silver="0">Israel</country>
+        <country bronze="1" gold="0" silver="0">Austria</country>
+        <country bronze="1" gold="0" silver="0">Dominican Republic</country>
+        <country bronze="1" gold="0" silver="0">Estonia</country>
+        <country bronze="1" gold="0" silver="0">Finland</country>
+        <country bronze="1" gold="0" silver="0">Morocco</country>
+        <country bronze="1" gold="0" silver="0">Nigeria</country>
+        <country bronze="1" gold="0" silver="0">Portugal</country>
+        <country bronze="1" gold="0" silver="0">Trinidad and Tobago</country>
+        <country bronze="1" gold="0" silver="0">United Arab Emirates</country>
+    </olympics>
+    <olympics location="Tokyo, Japan" year="2020">
+        <country bronze="33" gold="39" silver="41">United States</country>
+        <country bronze="18" gold="38" silver="32">China</country>
+        <country bronze="17" gold="27" silver="14">Japan</country>
+        <country bronze="22" gold="22" silver="21">Great Britain</country>
+        <country bronze="23" gold="20" silver="28">ROC</country>
+        <country bronze="22" gold="17" silver="7">Australia</country>
+        <country bronze="14" gold="10" silver="12">Netherlands</country>
+        <country bronze="11" gold="10" silver="12">France</country>
+        <country bronze="16" gold="10" silver="11">Germany</country>
+        <country bronze="20" gold="10" silver="10">Italy</country>
+        <country bronze="11" gold="7" silver="6">Canada</country>
+        <country bronze="8" gold="7" silver="6">Brazil</country>
+        <country bronze="7" gold="7" silver="6">New Zealand</country>
+        <country bronze="5" gold="7" silver="3">Cuba</country>
+        <country bronze="7" gold="6" silver="7">Hungary</country>
+        <country bronze="10" gold="6" silver="4">South Korea</country>
+        <country bronze="5" gold="4" silver="5">Poland</country>
+        <country bronze="3" gold="4" silver="4">Czech Republic</country>
+        <country bronze="2" gold="4" silver="4">Kenya</country>
+        <country bronze="2" gold="4" silver="2">Norway</country>
+        <country bronze="4" gold="4" silver="1">Jamaica</country>
+        <country bronze="6" gold="3" silver="8">Spain</country>
+        <country bronze="0" gold="3" silver="6">Sweden</country>
+        <country bronze="6" gold="3" silver="4">Switzerland</country>
+        <country bronze="4" gold="3" silver="4">Denmark</country>
+        <country bronze="2" gold="3" silver="3">Croatia</country>
+        <country bronze="2" gold="3" silver="2">Iran</country>
+        <country bronze="5" gold="3" silver="1">Serbia</country>
+        <country bronze="3" gold="3" silver="1">Belgium</country>
+        <country bronze="2" gold="3" silver="1">Bulgaria</country>
+        <country bronze="1" gold="3" silver="1">Slovenia</country>
+        <country bronze="2" gold="3" silver="0">Uzbekistan</country>
+        <country bronze="1" gold="2" silver="5">Georgia</country>
+        <country bronze="6" gold="2" silver="4">Chinese Taipei</country>
+        <country bronze="9" gold="2" silver="2">Turkey</country>
+        <country bronze="1" gold="2" silver="1">Greece</country>
+        <country bronze="1" gold="2" silver="1">Uganda</country>
+        <country bronze="0" gold="2" silver="1">Ecuador</country>
+        <country bronze="2" gold="2" silver="0">Ireland</country>
+        <country bronze="2" gold="2" silver="0">Israel</country>
+        <country bronze="1" gold="2" silver="0">Qatar</country>
+        <country bronze="0" gold="2" silver="0">Bahamas</country>
+        <country bronze="0" gold="2" silver="0">Kosovo</country>
+        <country bronze="12" gold="1" silver="6">Ukraine</country>
+        <country bronze="3" gold="1" silver="3">Belarus</country>
+        <country bronze="0" gold="1" silver="3">Romania</country>
+        <country bronze="0" gold="1" silver="3">Venezuela</country>
+        <country bronze="4" gold="1" silver="2">India</country>
+        <country bronze="3" gold="1" silver="2">Hong Kong</country>
+        <country bronze="1" gold="1" silver="2">Philippines</country>
+        <country bronze="1" gold="1" silver="2">Slovakia</country>
+        <country bronze="0" gold="1" silver="2">South Africa</country>
+        <country bronze="5" gold="1" silver="1">Austria</country>
+        <country bronze="4" gold="1" silver="1">Egypt</country>
+        <country bronze="3" gold="1" silver="1">Indonesia</country>
+        <country bronze="2" gold="1" silver="1">Ethiopia</country>
+        <country bronze="2" gold="1" silver="1">Portugal</country>
+        <country bronze="0" gold="1" silver="1">Tunisia</country>
+        <country bronze="1" gold="1" silver="0">Estonia</country>
+        <country bronze="1" gold="1" silver="0">Fiji</country>
+        <country bronze="1" gold="1" silver="0">Latvia</country>
+        <country bronze="1" gold="1" silver="0">Thailand</country>
+        <country bronze="0" gold="1" silver="0">Bermuda</country>
+        <country bronze="0" gold="1" silver="0">Morocco</country>
+        <country bronze="0" gold="1" silver="0">Puerto Rico</country>
+        <country bronze="1" gold="0" silver="4">Colombia</country>
+        <country bronze="4" gold="0" silver="3">Azerbaijan</country>
+        <country bronze="2" gold="0" silver="3">Dominican Republic</country>
+        <country bronze="2" gold="0" silver="2">Armenia</country>
+        <country bronze="1" gold="0" silver="2">Kyrgyzstan</country>
+        <country bronze="3" gold="0" silver="1">Mongolia</country>
+        <country bronze="2" gold="0" silver="1">Argentina</country>
+        <country bronze="2" gold="0" silver="1">San Marino</country>
+        <country bronze="1" gold="0" silver="1">Jordan</country>
+        <country bronze="1" gold="0" silver="1">Malaysia</country>
+        <country bronze="1" gold="0" silver="1">Nigeria</country>
+        <country bronze="0" gold="0" silver="1">Bahrain</country>
+        <country bronze="0" gold="0" silver="1">Lithuania</country>
+        <country bronze="0" gold="0" silver="1">Namibia</country>
+        <country bronze="0" gold="0" silver="1">North Macedonia</country>
+        <country bronze="0" gold="0" silver="1">Saudi Arabia</country>
+        <country bronze="0" gold="0" silver="1">Turkmenistan</country>
+        <country bronze="8" gold="0" silver="0">Kazakhstan</country>
+        <country bronze="4" gold="0" silver="0">Mexico</country>
+        <country bronze="2" gold="0" silver="0">Finland</country>
+        <country bronze="1" gold="0" silver="0">Botswana</country>
+        <country bronze="1" gold="0" silver="0">Burkina Faso</country>
+        <country bronze="1" gold="0" silver="0">Ghana</country>
+        <country bronze="1" gold="0" silver="0">Grenada</country>
+        <country bronze="1" gold="0" silver="0">Ivory Coast</country>
+        <country bronze="1" gold="0" silver="0">Kuwait</country>
+        <country bronze="1" gold="0" silver="0">Moldova</country>
+        <country bronze="1" gold="0" silver="0">Syria</country>
+    </olympics>
+</medals>

@@ -1,6 +1,8 @@
 class GUI {
     #xml;
     #xsl;
+    #ctx;
+    #chart;
     constructor() {
         window.fetch('SummerOlympics.xml').then(response => response.text())
             .then(data => {
@@ -15,6 +17,7 @@ class GUI {
                 this.#xsl = parser.parseFromString(data, "application/xml");
             })
             .catch(console.error);
+        this.#ctx = document.getElementById('chart');
     }
     fillCountries() {
         /* Fill the countries */
@@ -27,6 +30,7 @@ class GUI {
         temp.sort();
         for (const c of temp) {
             country.add(new Option(c));
+            country2.add(new Option(c));
         }
         this.allTimeMedals();
         /* Fill the olympics */
@@ -35,6 +39,45 @@ class GUI {
             let year = c.getAttribute("year");
             let location = c.getAttribute("location");
             olympics.add(new Option(`${year} (${location})`, year));
+        }
+    }
+
+    historicalData(evt) {
+        let value = evt.target.value;
+        if (value !== '-1') {
+            let nodes = document.evaluate(`//country[. = '${value}']`, this.#xml, null, XPathResult.UNORDERED_NODE_ITERATOR_TYPE, null);
+            let node = nodes.iterateNext();
+            let results = [], labels = [];
+            while (node) {
+                labels.push(node.parentNode.getAttribute("year"));
+                results.push(parseInt(node.getAttribute("gold")) + parseInt(node.getAttribute("silver")) + parseInt(node.getAttribute("bronze")));
+                const data = {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Number of medals',
+                        data: results,
+                        fill: false,
+                        borderColor: 'rgb(75, 192, 192)',
+                        tension: 0.1
+                    }]
+                };
+                const options = {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                };
+                const config = {
+                    type: 'line',
+                    data: data,
+                };
+                if(this.#chart) {
+                    this.#chart.destroy();
+                }
+                this.#chart = new Chart(this.#ctx, config, options);
+                node = nodes.iterateNext();
+            }
         }
     }
 
@@ -111,6 +154,7 @@ class GUI {
     registerEvents() {
         country.onchange = this.bestPerformance.bind(this);
         olympics.onchange = this.classification.bind(this);
+        country2.onchange = this.historicalData.bind(this);
     }
 }
 let gui = new GUI();

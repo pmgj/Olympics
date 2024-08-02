@@ -28,6 +28,7 @@ class GUI {
         for (const c of temp) {
             country.add(new Option(c));
         }
+        this.allTimeMedals();
         /* Fill the olympics */
         let olympicsElems = this.#xml.querySelectorAll("olympics");
         for (const c of olympicsElems) {
@@ -35,6 +36,46 @@ class GUI {
             let location = c.getAttribute("location");
             olympics.add(new Option(`${year} (${location})`, year));
         }
+    }
+
+    allTimeMedals() {
+        let results = [];
+        let countries = this.#xml.querySelectorAll("country");
+        for (const c of countries) {
+            let name = c.textContent;
+            let obj = results.find(o => o.name === name);
+            if (obj) {
+                obj.gold += parseInt(c.getAttribute("gold"));
+                obj.silver += parseInt(c.getAttribute("silver"));
+                obj.bronze += parseInt(c.getAttribute("bronze"));
+            } else {
+                obj = {};
+                obj.name = name;
+                obj.gold = parseInt(c.getAttribute("gold"));
+                obj.silver = parseInt(c.getAttribute("silver"));
+                obj.bronze = parseInt(c.getAttribute("bronze"));
+                results.push(obj);
+            }
+        }
+        results.sort((a, b) => {
+            let goldDiff = b.gold - a.gold;
+            if (goldDiff !== 0) {
+                return goldDiff;
+            } else {
+                let silverDiff = b.silver - a.silver;
+                if (silverDiff !== 0) {
+                    return silverDiff;
+                } else {
+                    return b.bronze - a.bronze;
+                }
+            }
+        });
+        let table = `<table class="table table-striped"><caption class="caption-top">All-time medal table</caption><thead class="table-dark"><tr><th>Country</th><th>Gold</th><th>Silver</th><th>Bronze</th></tr></thead><tbody>`;
+        for (const row of results) {
+            table += `<tr><td>${row.name}</td><td>${row.gold}</td><td>${row.silver}</td><td>${row.bronze}</td></tr>`;
+        }
+        table += `</tbody></table>`;
+        output3.innerHTML = table;
     }
 
     bestPerformance(evt) {
